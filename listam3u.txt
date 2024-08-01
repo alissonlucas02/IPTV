@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mariosanthos/IPTV/main/listam3u"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/alissonlucas02/IPTV/blob/main/listam3u.txt"
 ## 📺 TV gratis e legal
 ## 👨🏻‍💻 Editor: Mario Santos - Brasil 🇧🇷
 ## 📧 Contato: mariosantosd@hotmail.com
